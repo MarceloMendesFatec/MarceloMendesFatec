@@ -2,11 +2,6 @@
 
 <h4 align="center">Check me out on <a rel="external-link" href="https://www.linkedin.com/in/marcelo-junior-ti/" target="_blank">LinkedIn</a>.</h4>
 
-<div align="center">
-  <a href="https://github.com/MarceloMendesFatec">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarceloMendesFatec&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMendesFatec&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
 
